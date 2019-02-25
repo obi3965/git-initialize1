@@ -1,0 +1,3 @@
+# VSCODETEST
+
+* git er sejt
